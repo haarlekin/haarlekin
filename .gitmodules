@@ -1,6 +1,0 @@
-[submodule "haarlekin/themes/mini"]
-	path = haarlekin/themes/mini
-	url = https://github.com/nodejh/hugo-theme-mini
-[submodule "haarlekin/themes/ananke"]
-	path = haarlekin/themes/ananke
-	url = https://github.com/theNewDynamic/gohugo-theme-ananke
